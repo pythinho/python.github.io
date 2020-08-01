@@ -1,2 +1,2 @@
-# python.github.io
+# http://python.github.io
 python for personal
